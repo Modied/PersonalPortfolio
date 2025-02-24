@@ -1,0 +1,53 @@
+﻿@model SkillVModel
+
+@{
+    Layout = "~/Areas/Dashboard/Views/Shared/_Dashboard.cshtml";
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="card-body offset-md-2 col-md-8 ">
+    <form role="form" asp-action="Create" method="post" enctype="multipart/form-data">
+
+        <label>الاضافة</label>
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="mb-3">
+
+            <input class="form-control" type="hidden" readonly asp-for="Id" placeholder="ID" name="Id" value="@Model.Id" />
+            <span asp-validation-for="Id" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="text" asp-for="Name" placeholder="Name" name="name" value="@Model.Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+
+        <div class="mb-3">
+
+            <select asp-for="SkillTypeId" asp-items="@(new SelectList(Model.SkillTypes,"Id","Type")) " class="form-control"> </select>
+            <span asp-validation-for="SkillTypeId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="text" asp-for="Level" placeholder="Level" name="Level" value="@Model.Level" />
+            <span asp-validation-for="Level" class="text-danger"></span>
+        </div>
+
+
+        <div class="text-center">
+
+            <button type="submit" name="Edit" class="btn bg-gradient-info w-100 mt-4 mb-0"> اضافة </button>
+
+
+        </div>
+
+    </form>
+
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}   

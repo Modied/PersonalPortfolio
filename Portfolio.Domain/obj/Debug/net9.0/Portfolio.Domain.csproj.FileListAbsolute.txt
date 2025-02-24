@@ -1,0 +1,12 @@
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\bin\Debug\net9.0\Portfolio.Domain.deps.json
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\bin\Debug\net9.0\Portfolio.Domain.dll
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\bin\Debug\net9.0\Portfolio.Domain.pdb
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\Portfolio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\Portfolio.Domain.AssemblyInfoInputs.cache
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\Portfolio.Domain.AssemblyInfo.cs
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\Portfolio.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\Portfolio.Domain.dll
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\refint\Portfolio.Domain.dll
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\Portfolio.Domain.pdb
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\ref\Portfolio.Domain.dll
+D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Domain\obj\Debug\net9.0\Portfolio.Domain.csproj.AssemblyReference.cache

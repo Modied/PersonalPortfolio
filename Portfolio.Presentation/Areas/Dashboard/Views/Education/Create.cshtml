@@ -1,0 +1,76 @@
+﻿@model EducationVModel
+
+@{
+    Layout = "~/Areas/Dashboard/Views/Shared/_Dashboard.cshtml";
+    //ViewData["Title"] = "Create";
+}
+
+
+<div class="card-body offset-md-2 col-md-8 ">
+    <form role="form" asp-action="Create" method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken()
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <label>الاضافة</label>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="hidden" readonly asp-for="Id" placeholder="ID" name="Id" value="@Model.Id" />
+            <span asp-validation-for="Id" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="text" asp-for="Major" placeholder="Major" name="Major" value="@Model.Major" />
+            <span asp-validation-for="Major" class="text-danger"></span>
+        </div>
+
+
+        <div class="mb-3">
+
+            <input class="form-control" type="text" asp-for="Institution" placeholder="Institution" name="Institution" value="@Model.Institution" />
+            <span asp-validation-for="Institution" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="text" asp-for="Degree" placeholder="Degree" name="Degree" value="@Model.Degree" />
+            <span asp-validation-for="Degree" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="date" asp-for="StartDate" placeholder="StartDate" name="StartDate" value="@Model.StartDate" />
+            <span asp-validation-for="StartDate" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+
+            <input class="form-control" type="date" asp-for="EndDate" placeholder="EndDate" name="EndDate" value="@Model.EndDate" />
+            <span asp-validation-for="EndDate" class="text-danger"></span>
+        </div>
+
+       @*  <div class="mb-3">
+            <select asp-for="EducationTypeId" class="form-control" asp-items="@(new SelectList(Model.educationTypes,"Id", "Type"))"> </select>
+            <span asp-validation-for="EducationTypeId" class="text-danger"></span>
+        </div> *@
+        <div class="mb-3">
+            <select asp-for=EducationTypeId asp-items="@(new SelectList(Model.EducationTypes,"Id","Type"))" class="form-control"></select>
+            <span asp-validation-for="EducationTypeId" class="text-danger"></span>
+
+        </div>
+
+        <div class="text-center">
+
+            <button type="submit" name="Edit" class="btn bg-gradient-info w-100 mt-4 mb-0"> اضافة </button>
+
+
+        </div>
+
+    </form>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

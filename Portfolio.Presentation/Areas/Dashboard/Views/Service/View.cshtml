@@ -1,0 +1,33 @@
+﻿
+
+@model PersonalInfoVModel
+
+@{
+    Layout = "~/Areas/Dashboard/Views/Shared/_Dashboard.cshtml";
+    ViewData["Title"] = "View";
+}
+
+
+
+
+<div class="card-body offset-md-2 col-md-8 ">
+    <form role="form" asp-action="Create" method="post">
+        <label>الاسم</label>
+
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="mb-3">
+            <input type="text" asp-for=Name class="form-control" placeholder="اسم التصنيف /القسم" aria-label="text" aria-describedby="text-addon">
+            <span asp-validation-for="Name" class="text-danger"></span>
+
+        </div>
+
+        <div class="form-check form-switch">
+            @* <input class="form-check-input" asp-for=IsActive type="checkbox" id="rememberMe"> *@
+            <label class="form-check-label" for="rememberMe"> نشط؟</label>
+
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn bg-gradient-info w-100 mt-4 mb-0">اضافة</button>
+        </div>
+    </form>
+</div>

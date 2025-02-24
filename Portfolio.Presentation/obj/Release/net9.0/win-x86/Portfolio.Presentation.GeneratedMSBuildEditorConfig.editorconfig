@@ -1,0 +1,281 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Portfolio.Presentation
+build_property.RootNamespace = Portfolio.Presentation
+build_property.ProjectDir = D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Presentation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\C#\MyWebPortfolio\WebPortfolio\Portfolio.Presentation
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Achievement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjaGlldmVtZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Achievement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjaGlldmVtZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Achievement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjaGlldmVtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Achievement/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEFjaGlldmVtZW50XFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Auth/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEF1dGhcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEF1dGhcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEF1dGhcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Company/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvbXBhbnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Company/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvbXBhbnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Company/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvbXBhbnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Company/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENvbXBhbnlcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEN1c3RvbWVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEN1c3RvbWVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEN1c3RvbWVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Customer/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEN1c3RvbWVyXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Education/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEVkdWNhdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Education/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEVkdWNhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Education/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEVkdWNhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Education/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEVkdWNhdGlvblxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/PersonalInfo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFBlcnNvbmFsSW5mb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/PersonalInfo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFBlcnNvbmFsSW5mb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/PersonalInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFBlcnNvbmFsSW5mb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/PersonalInfo/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFBlcnNvbmFsSW5mb1xWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Service/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Service/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Service/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Shared/_Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Shared/_VisitorUI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfVmlzaXRvclVJLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Skill/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNraWxsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Skill/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNraWxsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Skill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNraWxsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Skill/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNraWxsXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/SocialMedia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNvY2lhbE1lZGlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/SocialMedia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNvY2lhbE1lZGlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/SocialMedia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNvY2lhbE1lZGlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/SocialMedia/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNvY2lhbE1lZGlhXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Tool/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRvb2xcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Tool/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRvb2xcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Tool/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRvb2xcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Tool/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFRvb2xcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Home/CVBuilder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXEhvbWVcQ1ZCdWlsZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Shared/_VisitorUI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXFNoYXJlZFxfVmlzaXRvclVJLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Tool/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXFRvb2xcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Tool/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXFRvb2xcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Tool/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXFRvb2xcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Tool/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXFRvb2xcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/Dashboard/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-yy0giob295
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Areas/VisitorUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlzaXRvclVJXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-qjl6zyizsp
+
+[D:/Projects/C\#/MyWebPortfolio/WebPortfolio/Portfolio.Presentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ffb212icb2

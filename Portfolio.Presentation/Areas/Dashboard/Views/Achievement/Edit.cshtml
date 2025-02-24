@@ -1,0 +1,106 @@
+﻿@model AchievementVModel
+
+@{
+    Layout = "~/Areas/Dashboard/Views/Shared/_Dashboard.cshtml";
+    ViewData["Title"] = "Edit";
+}
+
+<div class ="card-body offset-md-2 col-md-8 ">
+    <form role="form" asp-action="Update" method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken()    
+        <label>التعديل</label>
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="mb-3">
+
+            <input class="form-control" type="hidden" readonly asp-for="Id" placeholder="ID" name="Id" value="@Model.Id" />
+            <span asp-validation-for="Id" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3" >
+
+            <input class="form-control" type="text" asp-for="Title" placeholder="Title" name="Title" value="@Model.Title" />
+    <span asp-validation-for="Title" class="text-danger" ></span>
+        </div>
+
+
+        <div class="mb-3">
+
+            <input class="form-control" type="text" asp-for="Features" placeholder="Features" name="Features" value="@Model.Features" />
+            <span asp-validation-for="Features" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="date" asp-for="Date" placeholder="Date" name="Date" value="@(Model.Date.ToString("yyyy-MM-dd")??string.Empty)" />
+            <span asp-validation-for="Date" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+
+            <input class="form-control" type="text" asp-for="Description" placeholder="Description" name="Description" value="@Model.Description" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-check form-switch">
+
+            <input class="form-check-input" checked="checked" type="checkbox" id="IsCompany"
+                   onchange="ChooesOne()">
+
+
+            <label class="form-check-label" for="rememberMe"> ل شركة؟</label>
+
+        </div>
+        @if (Model.Companies != null && Model.Companies.Count > 0)
+        {
+            <div class="mb-3" style="display:block" id="Company">
+                <select asp-for="CompanyId" asp-items="@(new SelectList(Model.Companies,"Id","Name"))" class="form-control"></select>
+                <span asp-validation-for="CompanyId" class="text-danger"></span>
+
+            </div>
+        }
+        @if (Model.Customers != null && Model.Customers.Count > 0)
+        {
+
+            <div class="mb-3" style="display:none" id="Customer">
+                <select asp-for=CustomerId asp-items="@(new SelectList(Model.Customers,"Id","Name"))" class="form-control"></select>
+                <span asp-validation-for="CustomerId" class="text-danger"></span>
+
+            </div>
+        }
+
+         <div class="text-center"> 
+            
+            <button type="submit" name="Edit" class="btn bg-gradient-info w-100 mt-4 mb-0"> تعديل </button>
+
+
+        </div>
+
+    </form>
+
+</div>   
+<script>
+
+    function ChooesOne(){
+
+        var IsCompany = document.getElementById("IsCompany").checked;
+        var Company = document.getElementById("Company");
+        var Customer = document.getElementById("Customer");
+        if(IsCompany){
+            Company.style.display = "block";
+            Customer.style.display = "none";
+        }else{
+            Company.style.display = "none";
+            Customer.style.display = "block";
+        }
+    }
+
+    // تعبئة القائمة بقيم العملاء بشكل افتراضي عند تحميل الصفحة
+    document.addEventListener("DOMContentLoaded", () => {
+      ChooesOne();
+    });
+</script>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}   
