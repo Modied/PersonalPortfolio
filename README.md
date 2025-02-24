@@ -24,6 +24,7 @@ This project is a **personal web portfolio** built using **ASP.NET Core**. It fe
 
 - **ASP.NET Core** (Web API & MVC)
 - **Entity Framework Core** (Database interactions)
+- **Identity** (Authentication & Authorization)
 - **AutoMapper** (Object mapping)
 - **Dependency Injection**
 - **Repository & Unit of Work Patterns**
@@ -36,8 +37,8 @@ This project is a **personal web portfolio** built using **ASP.NET Core**. It fe
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Modied/PersonalPortfolio.git
+ 
    ```
 
 2. **Setup Database**:
